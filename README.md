@@ -1,4 +1,4 @@
-# QLoRA in Code Summarization: How Far Are We?
+# Resource-Efficient & Effective Code Summarization
 We conduct the first empirical investigation into QLoRA, focusing specifically on method-level code summarization as a representative task that requires the model to identify patterns and structures across both natural and programming languages. Our study evaluates three state-of the-art CLMs across two programming languages: Python and Java. 
 
 #### How to replicate
